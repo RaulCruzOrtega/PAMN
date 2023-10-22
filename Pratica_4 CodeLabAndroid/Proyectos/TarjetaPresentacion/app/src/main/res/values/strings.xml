@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TarjetaPresentacion</string>
+    <string name="nombre">Raúl Cruz</string>
+    <string name="title">Title</string>
+    <string name="phone_number">+00 (00) 000 000</string>
+    <string name="socialmedia">\@socialmediahandle</string>
+    <string name="email">email@domail.com</string>
+</resources>
