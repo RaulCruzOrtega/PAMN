@@ -8,5 +8,6 @@ Repositorio dedicado a la asignatura 'Programación de Aplicaciones Móviles Nat
   <li><a href="./Elecci%C3%B3n%20de%20una%20arquitectura%20para%20cada%20supuesto/Informe%20Elecci%C3%B3n%20de%20una%20Arquitectura.pdf">Elección de una arquitectura para cada supuesto</li>
   <li><a href="./Practica_4 CodeLabAndroid">Práctica_4 CodeLabAndroid</a></li>
   <li><a href="./Practica_5 CodeLabPersistenciaDeDatos">Práctica_5 CodeLabPersistenciaDeDatos</a></li>
+    <li><a href="./Diseño de la Base de Datos/Diseno_Base_Datos.pdf">Diseño de la Base de Datos</a></li>
   <li><a href="./Patrón de Diseño - Factory Method/FactoryMethod.pdf">Patrón de Diseño - Factory Method</a></li>
 </ul>
